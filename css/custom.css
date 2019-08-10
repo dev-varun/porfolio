@@ -1,0 +1,22 @@
+.mapouter
+{
+    position:relative;
+    text-align:right;
+    height:500px;
+    width:100%;
+        text-align:center;
+
+}
+.gmap_canvas 
+{
+    overflow:hidden;
+    background:none;
+    height:500px;width:100%;
+    text-align:center;
+    
+}
+.quote {
+    font-size: 12pt;
+    text-align: right;
+    margin-top: 10px;
+}
