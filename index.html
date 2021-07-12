@@ -156,7 +156,7 @@
               <a href="#contact" class="btn btn-danger link-scroll"
                 >Contact me</a
               ><a
-                href="/files/Profile.pdf"
+                href="https://github.com/dev-varun/portfolio/blob/d98d5e5f2792dd124329c1aa6a20fb48e9ee2216/files/Profile.pdf"
                 class="btn ml-1 btn-danger link-scroll"
                 download="varuncv"
                 >Download CV</a
