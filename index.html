@@ -156,7 +156,7 @@
               <a href="#contact" class="btn btn-danger link-scroll"
                 >Contact me</a
               ><a
-                href="/files/Profile.pdf"
+                href="/portfolio/files/Profile.pdf"
                 class="btn ml-1 btn-danger link-scroll"
                 download="varuncv"
                 >Download CV</a
