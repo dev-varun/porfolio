@@ -1065,7 +1065,7 @@
       <!-- Map-->
       <div class="mapouter mb-3">
         <div class="gmap_canvas">
-          <iframe
+          <!--<iframe
             class="p-1 m-1 rounded border border-white"
             width="90%"
             height="500px"
@@ -1074,7 +1074,7 @@
             allowfullscreen
             src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDI9bvCSqPrOmVsB8WmxNifrxLUHcGn5QU&q=Space+Needle,Seattle+WA"
           >
-          </iframe>
+          </iframe>-->
         </div>
       </div>
     </div>
