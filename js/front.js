@@ -11,10 +11,10 @@ $(function () {
      * counters
      *  =======================================*/
 
-    $('.counter').counterUp({
+   /* $('.counter').counterUp({
         delay: 10,
         time: 1000
-    });
+    });*/
 
     /* =================================================
      * Preventing URL update on navigation link click
